@@ -6,3 +6,6 @@ Exercício 02: Fazer um programa para ler o valor do raio de um círculo, e depo
 Formúla da área = π . raio²
 
 Exercício 03: Fazer um programa para ler quatro valores inteiros A, B, C, D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fómular: DIFERENCA = (A * B - C * D)
+
+
+
